@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+
+My test repo just for learning the github commands and stuff
